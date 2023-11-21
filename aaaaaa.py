@@ -29,4 +29,4 @@ repository_url = 'https://github.com/proprietaire1/NomRepo1'  # Remplacez par l'
 repo = Repository(repository_name, repository_url)
 repo.get_branches()
 
-print("Noms des branches :", repo.branches)
+print("Noms des branchessssss :", repo.branches)
